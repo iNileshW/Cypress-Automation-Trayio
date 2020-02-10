@@ -1,0 +1,11 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "nileshwairagade@gmail.com",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "password": "N!lesh123456",
+  "landingpage":"https://tray.io/",
+  "landingpagetitle":"The Best API Integration Platform for Leading Enterprises | Tray.io",
+  "loginpagetitle":"Build & scale high value integrations | tray.io",
+  "workflowname":"Test",
+  "deleteconfirmation":"DELETE"
+}
